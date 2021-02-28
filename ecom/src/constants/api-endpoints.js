@@ -1,0 +1,1 @@
+export const FETCH_PRODUCTS_API = "https://run.mocky.io/v3/65f47af7-bdd7-42a3-a406-f3754aab01c1";
