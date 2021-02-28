@@ -1,4 +1,4 @@
-# React.js exommerce application with redux and redux-thunk
+# React.js ecommerce application with redux and redux-thunk
 
 ## Requirements:
 - React.js
@@ -12,7 +12,7 @@ git clonehttps://github.com/AkarshRK/e-commerce-app.git
 cd e-commerce-app/ecom
 ```
 
-Install the react packages...
+Install the packages...
 
 ```sh
 npm install
